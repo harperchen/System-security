@@ -3,6 +3,9 @@
 ## Kernel Fuzzing
 1. [[CCS'21] SyzGen: Automated Generation of Syscall Specification of Closed-Source macOS Drivers](https://www.cs.ucr.edu/~zhiyunq/pub/ccs21_syzgen.pdf)
 2. [[Oakland'21] NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis](https://softsec.kaist.ac.kr/~jschoi/data/oakland2021.pdf)
+3. [[SOSP'21] HEALER: Relation Learning Guided Kernel Fuzzing]()
+4. [[SOSP'21] Snowboard: Finding Kernel Concurrency Bugs through Systematic Inter-thread Communication Analysis]()
+5. 
 
 ## Kernel Bug Detection
 
