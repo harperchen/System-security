@@ -44,6 +44,9 @@
 
 1. [[Security'20] KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities](https://www.usenix.org/system/files/sec20-chen-weiteng.pdf)
 
+### Use before initialization
+
+1. [[WOOT'20] Exploiting Uses of Uninitialized Stack Variables in Linux Kernels to Leak Kernel Pointers](https://www.usenix.org/system/files/woot20-paper-cho.pdf)
 
 ## Kernel Bug Repair
 
