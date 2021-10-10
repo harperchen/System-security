@@ -40,6 +40,10 @@
 ### Data Race
 1. [[Security'21] ExpRace: Exploiting Kernel Races through Raising Interrupts](https://www.usenix.org/conference/usenixsecurity21/presentation/lee-yoochan)
 
+### Out-of-Bounds
+
+1. [[Security'20] KOOBE: Towards Facilitating Exploit Generation of Kernel Out-Of-Bounds Write Vulnerabilities](https://www.usenix.org/system/files/sec20-chen-weiteng.pdf)
+
 
 ## Kernel Bug Repair
 
