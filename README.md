@@ -29,6 +29,10 @@
 ### RefCount Bugs
 1. [[Security'21] Detecting Kernel Refcount Bugs with Two-Dimensional Consistency Checking](https://www.usenix.org/conference/usenixsecurity21/presentation/tan)
 
+### Undefined Behaviors
+
+1. [[NDSS'21] KUBO: Precise and Scalable Detection of User-triggerable Undefined Behavior Bugs in OS Kernel](https://www.ndss-symposium.org/wp-content/uploads/ndss2021_1B-5_24461_paper.pdf)
+
 ### Misc.
 
 1. [[Security'21] Static Detection of Unsafe DMA Accesses in Device Drivers](https://www.usenix.org/system/files/sec21-bai.pdf)
